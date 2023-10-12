@@ -37,7 +37,7 @@
 
 ## 5. Adding Elements to Test Plan ➕
 
-![JMeter Test Plan Elements - Coding Ninjas](https://files.codingninjas.in/article_images/what-are-jmeter-test-plan-elements-0-1666717034.webp)
+![JMeter Test Plan](https://artoftesting.com/wp-content/uploads/2019/12/testPlan.jpg)
 - Discuss various JMeter elements like Samplers, Controllers, and Listeners.
 - Add a Timer element to control request pacing.
 - Show how to use Assertions to validate responses.
@@ -93,5 +93,3 @@
 - Thank participants and encourage them to explore JMeter further.
 
 This course will provide participants with a solid foundation in using JMeter for performance testing and give them the confidence to create and execute their own test plans. 🚀
-
-
